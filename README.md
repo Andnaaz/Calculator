@@ -17,6 +17,8 @@ This repository contains the code for a calculator website developed using HTML,
 
 ## Demo
 
-Check out the live demo [here] 
+Check out the live demo [here] https://andnaaz.github.io/Calculator/
 
 ## Screenshots
+![Screenshot 2024-07-12 164248](https://github.com/user-attachments/assets/01a730fc-6ae8-4951-9f1b-f1bd094eac85)
+
